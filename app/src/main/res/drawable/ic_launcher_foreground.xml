@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- I-Beam / Foundation Base Structure -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M32,74h44v4h-44z M51,62h6v12h-6z M32,58h44v4h-44z" />
+
+    <!-- Drafting Compass Arms (Golden Amber) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,26l-18,34h7l11,-21l11,21h7z" />
+
+    <!-- Compass Hinge Knob -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,23a5,5 0 1,0 0.001,0z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,24a2,2 0 1,0 0.001,0z" />
+
+    <!-- Compass Measurement Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:pathData="M43,46a16,16 0 0,0 22,0" />
+
+    <!-- Technical Crosshairs / AI Sparkle Star -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:pathData="M54,12v6 M54,84v6 M18,54h6 M84,54h6" />
+
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M78,28l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+</vector>
